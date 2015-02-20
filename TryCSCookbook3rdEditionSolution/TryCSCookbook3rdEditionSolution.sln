@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCSCookbook3rdEdition", "TryCSCookbook3rdEdition\TryCSCookbook3rdEdition.csproj", "{1E6A7535-D8A8-4CDD-8224-D4D7E61DF3E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recipes1.1", "Recipes1.1\Recipes1.1.csproj", "{813A959C-7782-4D70-A0F5-2463605438E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6A7535-D8A8-4CDD-8224-D4D7E61DF3E8}.Debug|x86.ActiveCfg = Debug|x86
+		{1E6A7535-D8A8-4CDD-8224-D4D7E61DF3E8}.Debug|x86.Build.0 = Debug|x86
+		{1E6A7535-D8A8-4CDD-8224-D4D7E61DF3E8}.Release|x86.ActiveCfg = Release|x86
+		{1E6A7535-D8A8-4CDD-8224-D4D7E61DF3E8}.Release|x86.Build.0 = Release|x86
+		{813A959C-7782-4D70-A0F5-2463605438E3}.Debug|x86.ActiveCfg = Debug|x86
+		{813A959C-7782-4D70-A0F5-2463605438E3}.Debug|x86.Build.0 = Debug|x86
+		{813A959C-7782-4D70-A0F5-2463605438E3}.Release|x86.ActiveCfg = Release|x86
+		{813A959C-7782-4D70-A0F5-2463605438E3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
